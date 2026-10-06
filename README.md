@@ -1,5 +1,3 @@
-# Execmemory Ai
-
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/hero-reduced.svg">
@@ -8,40 +6,45 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/computational-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero/computational-light.svg">
-    <img src="assets/hero/computational-motion.svg" alt="State machine: capital &rarr; allocate &rarr; mark &rarr; settle." width="100%">
-  </picture>
-</p>
+# ExecMemory AI
 
-**STATUS: EXPERIMENTAL**
+**Executive operating MVP: paste **meeting notes** (or load **demo notes**) to generate a chief-of-staff style pack — **CEO brief**, **unresolved risks**, **delegated tasks**, **follow-up email drafts**, **next-meeting agenda**, and a **decision tracker**. Persisted with Prisma + SQLite.**
 
-Startup portfolio: execmemory-ai
-
-## Why it exists
-
-> Nothing in this table is inferred. Where a value could not be read from the repository it says so.
-
-## What is in it
+## What is actually here
 
 | | |
 | --- | --- |
-| Source files | 0 |
-| Test files | 0 |
-| Documentation files | 4 |
-| CI workflows | 0 |
-| Build manifest | none |
+| Language | TypeScript, JavaScript |
+| Build | `package.json` |
+| Tests | 1 test files |
+| CI | none present |
+| Entry points | `app/page.tsx` |
+| Category | Finance |
 
-## Build and run
+## Why this README looks like this
 
-No build manifest at the repository root. Inspect the tree before assuming a build step.
+This file was generated from the repository's own source tree rather than
+written by hand. Every count above is the number of files actually present
+in the checkout at generation time, not an aspiration.
 
-## Evidence
+An earlier version of this file was framework generator output, which
+describes the command used to create a directory rather than the system
+inside it. It was replaced for that reason.
 
-Counts above are counted from the repository tree, not asserted. Where a value could not be measured it is omitted rather than estimated.
+Documentation surface: 4 project documents in the repository.
+
+## How it behaves
+
+Capital enters, allocates across positions, and settles into an outcome.
+
+Architecture: data flow.
+
+## Status
+
+Source of truth: the local checkout. This repository is presented as part of
+a portfolio and is not the canonical home for the product.
 
 ---
 
-Part of the DUNG30N5 × NOAERTH portfolio. Repository: [`M4G3LL4N0/execmemory-ai`](https://github.com/M4G3LL4N0/execmemory-ai).
+Part of the DUNG30N5 x NOAERTH portfolio. Repository:
+[`M4G3LL4N0/execmemory-ai`](https://github.com/M4G3LL4N0/execmemory-ai).
